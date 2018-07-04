@@ -1,0 +1,15 @@
+Karachi's Latitude: 24.8607343
+Karachi's Longitude: 67.0011364
+
+Chicago's Latitude: 41.8781136
+Chicago's Longitude: -87.6297982
+
+Paris's Latitude: 48.856614
+Paris's Longitude: 2.3522219
+
+Capri's Latitude: 40.5532009
+Capri's Longitude: 14.222154
+
+London's Latitude: 51.5073509
+London's Longitude: -0.1277583
+
