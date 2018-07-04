@@ -8,7 +8,7 @@ app = QtGui.QApplication(sys.argv)
 
 url = 'https://maps.googleapis.com/maps/api/geocode/json?'
 url2 = 'https://www.google.com.pk/?gws_rd=cr&ei=0B5ZWaD8E8HTvgTK96XoBg#q='
-api_key = '&key=AIzaSyBjw3nZzQ5KCrdFr5rP5AMf3jPZ0Yvneqk'
+api_key = '&key=YOUR-API-HERE'
 
 
 class Window(QtGui.QMainWindow):
